@@ -24,3 +24,11 @@ This file will have a short description on the projects found in this repisotory
 
   This is a basic game made using UnrealEngine made for a school assignment where the player simply has to navigate a map in order to collect all the shapes scattered. Once the player has collected the
   shapes and reached a score of 30 he has beaten the game.
+
+
+- RugbyRunner
+
+  This project is developed in Unity usingv C#
+
+  This is the first game project I did, it is a simple top down game where the pllayer moves horizontally across the bottom of the screen in order to catch the rugby balls falling from the top of the screen,
+  while avoiding other obstacles moving towards him.
