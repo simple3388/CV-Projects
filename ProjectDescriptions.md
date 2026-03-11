@@ -16,3 +16,11 @@ This file will have a short description on the projects found in this repisotory
   This is a Vampire Survivor type of game where the player must survive for a set amount of time while enemies approach from all sides. The weapons will auto attack the enemies that spwan and the player
   inputs will mainly be just the movement to try to avoid hitting enemies. Enemies drop xp chests which the player can pick up in order to level up and upgrade and choose an attribute and upgrade it.
   In order to match the players power increase the enemy spawn rate increases the longer he survives.
+
+
+- ShapeCity
+
+  This project is developed using UnrealEngine
+
+  This is a basic game made using UnrealEngine made for a school assignment where the player simply has to navigate a map in order to collect all the shapes scattered. Once the player has collected the
+  shapes and reached a score of 30 he has beaten the game.

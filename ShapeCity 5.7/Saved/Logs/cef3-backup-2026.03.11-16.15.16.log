@@ -1,0 +1,9 @@
+[27180:23040:0311/171457.758:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[27180:23040:0311/171457.773:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[27180:7488:0311/171457.816:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[27180:23040:0311/171457.819:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[22440:14012:0311/171504.107:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-899FB9BE08C6E2BAC94A6FFE141F2E1A will be ignored
+[27180:9332:0311/171506.336:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27180:9332:0311/171506.435:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27180:9332:0311/171506.604:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27180:23040:0311/171517.776:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
